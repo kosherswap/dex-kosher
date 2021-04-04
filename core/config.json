@@ -1,0 +1,9 @@
+{
+  "language": "",
+  "main": "./migrations/2_deploy_contracts.js",
+  "deploy": "./build/contracts/Factory.json",
+  "compilers": {
+    "truffle": "v5.1.61",
+    "solc": ""
+  }
+}

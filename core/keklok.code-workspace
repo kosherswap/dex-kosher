@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../periphery"
+		},
+		{
+			"path": "../pancake-frontend"
+		},
+		{
+			"path": "../pancake-swap-interface"
+		}
+	]
+}
